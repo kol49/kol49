@@ -1,4 +1,4 @@
-<h3 align="center">sexy ukrainian unity indy developer</h3>
+
 
 <h3 align="center">Languages</h3>
 
@@ -27,9 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zbrush" height="40" alt="zbrush logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=substancepainter" height="40" alt="substance painter logo" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unreal engine logo" />
 </div>
